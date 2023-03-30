@@ -10,4 +10,4 @@ Implemented:
 * Time saving
 * Reset StopWatch
 
-Stopwatch-app: [Demo]()
+Stopwatch-app: [Demo](https://dimalogin.github.io/Stopwatch-app/)
